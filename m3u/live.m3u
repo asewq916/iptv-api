@@ -43,32 +43,36 @@ https://t.freetv.fun/live/hu-nan-wei-shi-15.m3u8
 http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 
 #湖南频道
-#EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/金鹰纪实.png" group-title="☘️湖南频道",金鹰纪实
-http://tvbox6.icu/tv/mgtv.php?id=316
-#http://drive.mxmy.net:8888/udp/239.3.1.58:8156
-#EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南金鹰卡通.png" group-title="☘️湖南频道",金鹰卡通
-http://tvbox6.icu/tv/mgtv.php?id=287
-#EXTINF:-1 tvg-id="茶频道" tvg-name="茶频道" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/茶.png" group-title="☘️湖南频道",茶友频道
+#EXTINF:-1 tvg-id="湖南经视" tvg-name="湖南经视" tvg-logo="https://cdn.jsdelivr.net/gh/arbaleast/mgtv@main/logo/hnjs.png" group-title="☘️湖南频道",湖南经视
+http://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTIwLjgxLjE1OS4zMiZ0ZXJtPTEmcWlkPSZyYXV0aF9lbmFibGU9b24mY2RuZXhfaWQ9cXFfcGhvbmVfbGl2ZSZjaHM9JmRlZj0xJnM9OGM1YmJjMGViMzcyMGUyNjA3YTMzOGY2NmEzNjJlOTMmdWlkPSZ1dWlkPTgyMmE2ODljYjI4ZGQ5MDQ2YzJhYmYzOThhZWYzYjFmLTE0NTE5ZjIwJnY9MiZhcz0wJmVzPTE3NzIxODQyNjA,/HNJSMPP360.m3u8
+#EXTINF:-1 tvg-id="湖南都市" tvg-name="湖南都市" tvg-logo="https://cdn.jsdelivr.net/gh/arbaleast/mgtv@main/logo/hnds.png" group-title="☘️湖南频道",湖南都市
+http://phonealihd.qing.mgtv.com/nn_live/nn_x64/dWlwPTIwLjgxLjE1OS4zMiZ0ZXJtPTEmcWlkPSZyYXV0aF9lbmFibGU9b2ZmJmNkbmV4X2lkPWFsX3Bob25lNCZjaHM9JmRlZj0xJnM9ODBkMjI2ZWQzZmZjZmIzOGJkYmY2MzQzZTRhMjkwYTcmdWlkPSZ1dWlkPTdmOTcyYjYyZWY2NmY3ZDJiNWExNWQxNGRiNTgyZDcxLTE0NTE5ZjIwJnY9MiZhcz0wJmVzPTE3NzIyODUwNjE,/HNDSMPP360.m3u8
+#EXTINF:-1 tvg-id="湖南电视剧" tvg-name="湖南电视剧" tvg-logo="https://cdn.jsdelivr.net/gh/arbaleast/mgtv@main/logo/hndsj.png" group-title="☘️湖南频道",湖南视剧
+http://phonealihd.qing.mgtv.com/nn_live/nn_x64/dWlwPTIwLjgxLjE1OS4zMiZ0ZXJtPTEmcWlkPSZyYXV0aF9lbmFibGU9b2ZmJmNkbmV4X2lkPWFsX3Bob25lNCZjaHM9JmRlZj0xJnM9ZGE5YTFiYTExODM0ODgyMzUxYmQyOGQ5NzBiYTMxYTYmdWlkPSZ1dWlkPTYwOWY3MGMyN2E4ZjYwMGNiYTAwNTA2Y2VmN2NhYjJlLTE0NTE5ZjIwJnY9MiZhcz0wJmVzPTE3NzIyODUwNjE,/HNDSJMPP360.m3u8
+#EXTINF:-1 tvg-id="261" tvg-name="湖南公共" tvg-logo="https://cdn.jsdelivr.net/gh/arbaleast/mgtv@main/logo/hngg.png" group-title="☘️湖南频道",湖南公共 
+http://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTIwLjgxLjE1OS4zMiZ0ZXJtPTEmcWlkPSZyYXV0aF9lbmFibGU9b2ZmJmNkbmV4X2lkPXFxX3Bob25lX2xpdmUmY2hzPSZkZWY9MSZzPWI4Zjg5MzQwZmU1Y2M3YjkzNjY0MDIxYzA1MTA3NTdmJnVpZD0mdXVpZD0zMTdkMDZiYTNlNWIyZWU1ODA0ZDUwNTMxYzc4ODE5Yy0xNDUxOWYyMCZ2PTImYXM9MCZlcz0xNzcyMTg0MjYy/HNGGMPP360.m3u8
+#EXTINF:-1 tvg-id="湖南国际" tvg-name="湖南国际" tvg-logo="https://cdn.jsdelivr.net/gh/arbaleast/mgtv@main/logo/hngj.png" group-title="☘️湖南频道",湖南国际
+http://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTIwLjgxLjE1OS4zMiZ0ZXJtPTEmcWlkPSZyYXV0aF9lbmFibGU9b2ZmJmNkbmV4X2lkPXFxX3Bob25lX2xpdmUmY2hzPSZkZWY9MSZzPWNkMzZhYjdhZTZmMDYyNTgzYjkyNjI0MmNkODA5NWE1JnVpZD0mdXVpZD1lMzAwZGM0OTA3ZGJhMDdiODIwNGYxN2RhMzA5ZDQ1Ni0xNDUxOWYyMCZ2PTImYXM9MCZlcz0xNzcyMTg0MjYz/HNGJMPP360.m3u8
+#EXTINF:-1 tvg-id="湖南娱乐" tvg-name="湖南娱乐" tvg-logo="https://cdn.jsdelivr.net/gh/arbaleast/mgtv@main/logo/hnyl.png" group-title="☘️湖南频道",湖南娱乐
+http://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTIwLjgxLjE1OS4zMiZ0ZXJtPTEmcWlkPSZyYXV0aF9lbmFibGU9b2ZmJmNkbmV4X2lkPXFxX3Bob25lX2xpdmUmY2hzPSZkZWY9MSZzPTRiYmNjMTk4NjJiNGI0ZWUxYjkyZDAyMWE1MjdjYmIyJnVpZD0mdXVpZD1jNjMwZTI1MmI4Yzk5YzFlMjZkY2Y5ZGExZWRjODAxMC0xNDUxOWYyMCZ2PTImYXM9MCZlcz0xNzcyMTg0MjY0/HNYLMPP360.m3u8
+#EXTINF:-1 tvg-id="267" tvg-name="快乐购" tvg-logo="https://cdn.jsdelivr.net/gh/arbaleast/mgtv@main/logo/hnklg.png" group-title="☘️湖南频道",快乐购 
+http://phonealihd.qing.mgtv.com/nn_live/nn_x64/dWlwPTIwLjgxLjE1OS4zMiZ0ZXJtPTEmcWlkPSZyYXV0aF9lbmFibGU9b2ZmJmNkbmV4X2lkPWFsX3Bob25lNCZjaHM9JmRlZj0xJnM9ZDI1ODUyMTE2ZTA2MDJkN2NhM2NiOGFiNWZmMjAyZjYmdWlkPSZ1dWlkPWJlODBkMTcyNzM4NmRmOTNhN2ZkNzkyMzIxMTE5NzgxLTE0NTE5ZjIwJnY9MiZhcz0wJmVzPTE3NzIyODUwNjQ,/KLGMPP360.m3u8
+#EXTINF:-1 tvg-id="茶频道" tvg-name="茶频道" tvg-logo="https://cdn.jsdelivr.net/gh/arbaleast/mgtv@main/logo/cpd.png" group-title="☘️湖南频道",茶友频道
 http://drive.mxmy.net:8888/udp/239.3.1.165:8001
-#EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/快乐垂钓.png" group-title="☘️湖南频道",快乐垂钓
+#EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://cdn.jsdelivr.net/gh/arbaleast/mgtv@main/logo/jyjs.png" group-title="☘️湖南频道",金鹰纪实
+http://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTIwLjgxLjE1OS4zMiZ0ZXJtPTEmcWlkPSZyYXV0aF9lbmFibGU9b2ZmJmNkbmV4X2lkPXFxX3Bob25lX2xpdmUmY2hzPSZkZWY9MSZzPTJmN2Q2MTdiM2NkZTAzYWYwZTk4NTc4Nzk0MTA3NGFjJnVpZD0mdXVpZD01NjRjM2EyYWFmOWYzNjFhYjljYTY2Y2M3ZDdkZjliNy0xNDUxOWYyMCZ2PTImYXM9MCZlcz0xNzcyMTg0MjY2/JYJSMPP360.m3u8
+#http://drive.mxmy.net:8888/udp/239.3.1.58:8156
+#EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://cdn.jsdelivr.net/gh/arbaleast/mgtv@main/logo/jykt.png" group-title="☘️湖南频道",金鹰卡通
+http://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTIwLjgxLjE1OS4zMiZ0ZXJtPTEmcWlkPSZyYXV0aF9lbmFibGU9b2ZmJmNkbmV4X2lkPXFxX3Bob25lX2xpdmUmY2hzPSZkZWY9MSZzPTRiOGM5ZDQ0YmExNGU1MTA5MGE5NjcxZWZjZTY3MDFjJnVpZD0mdXVpZD04MDBlNTRmZmRiNTljYzRkMDcwNmY3M2U2MDVkYzM5MS0xNDUxOWYyMCZ2PTImYXM9MCZlcz0xNzcyMTg0MjY2/JYKTMPP360.m3u8
+#EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://cdn.jsdelivr.net/gh/arbaleast/mgtv@main/logo/klcd.png" group-title="☘️湖南频道",快乐垂钓
 http://drive.mxmy.net:8888/udp/239.3.1.164:8001
-#EXTINF:-1 tvg-id="湖南爱晚" tvg-name="湖南爱晚" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南爱晚.png" group-title="☘️湖南频道",湖南爱晚
+#EXTINF:-1 tvg-id="329" tvg-name="先锋乒羽" tvg-logo="https://cdn.jsdelivr.net/gh/arbaleast/mgtv@main/logo/xfpy.png" group-title="☘️湖南频道",先锋乒羽
+http://tvbox6.icu/tv/mgtv.php?id=260
+#EXTINF:-1 tvg-id="湖南爱晚" tvg-name="湖南爱晚" tvg-logo="https://cdn.jsdelivr.net/gh/arbaleast/mgtv@main/logo/hnaw.png" group-title="☘️湖南频道",湖南爱晚
 http://tvbox6.icu/tv/mgtv.php?id=261
-#EXTINF:-1 tvg-id="湖南爱晚" tvg-name="湖南爱晚" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南爱晚.png" group-title="☘️湖南频道",湖南爱晚
-http://p2.vzan.com/527645544/149039617847513156/live.m3u8
-#EXTINF:-1 tvg-id="湖南电视剧" tvg-name="湖南电视剧" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南电视剧.png" group-title="☘️湖南频道",湖南视剧
-http://tvbox6.icu/tv/mgtv.php?id=484
-#EXTINF:-1 tvg-id="湖南电影" tvg-name="湖南电影" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南电影.png" group-title="☘️湖南频道",湖南电影
+#EXTINF:-1 tvg-id="湖南电影" tvg-name="湖南电影" tvg-logo="https://cdn.jsdelivr.net/gh/arbaleast/mgtv@main/logo/hndy.png" group-title="☘️湖南频道",湖南电影
 http://tvbox6.icu/tv/mgtv.php?id=221
-#EXTINF:-1 tvg-id="湖南都市" tvg-name="湖南都市" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南都市.png" group-title="☘️湖南频道",湖南都市
-http://tvbox6.icu/tv/mgtv.php?id=346
-#EXTINF:-1 tvg-id="湖南国际" tvg-name="湖南国际" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南国际.png" group-title="☘️湖南频道",湖南国际
-http://tvbox6.icu/tv/mgtv.php?id=229
-#EXTINF:-1 tvg-id="湖南经视" tvg-name="湖南经视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南经视.png" group-title="☘️湖南频道",湖南经视
-http://tvbox6.icu/tv/mgtv.php?id=280
-#EXTINF:-1 tvg-id="湖南娱乐" tvg-name="湖南娱乐" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南娱乐.png" group-title="☘️湖南频道",湖南娱乐
-http://tvbox6.icu/tv/mgtv.php?id=344
-#EXTINF:-1 tvg-id="湖南教育" tvg-name="湖南教育台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南教育.png" group-title="☘️湖南频道",湖南教育
+#EXTINF:-1 tvg-id="湖南教育" tvg-name="湖南教育台" tvg-logo="https://cdn.jsdelivr.net/gh/arbaleast/mgtv@main/logo/hnjy.png" group-title="☘️湖南频道",湖南教育
 http://222.241.154.37:9901/tsfile/live/23027_1.m3u8
 #EXTINF:-1 tvg-id="长沙新闻" tvg-logo="https://cdn.jsdelivr.net/gh/arbaleast/mgtv@main/logo/csxw.png" group-title="☘️湖南频道",长沙新闻
 http://tvbox6.icu/tv/mgtv.php?id=269
