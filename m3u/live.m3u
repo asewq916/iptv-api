@@ -1,6 +1,7 @@
+#EXTM3U
 #央视频道
 #EXTINF:-1 tvg-name="CCTV-1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="📺央视频道",CCTV-1
-http://38.75.136.137:98/gslb/dsdqbv/cctv1hd.m3u8?auth=test20251009
+http://74.91.26.218:82/live/cctv1hd.m3u8
 #EXTINF:-1 tvg-name="CCTV-1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="📺央视频道",CCTV-1
 http://120.76.248.139/live/bfgd/4200000484.m3u8
 #EXTINF:-1 tvg-name="CCTV-1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="📺央视频道",CCTV-1
@@ -44,28 +45,28 @@ http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02O
 
 #湖南频道
 #EXTINF:-1 tvg-id="湖南经视" tvg-name="湖南经视" tvg-logo="https://cdn.jsdelivr.net/gh/arbaleast/mgtv@main/logo/hnjs.png" group-title="☘️湖南频道",湖南经视
-http://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTIwLjgxLjE1OS4zMiZ0ZXJtPTEmcWlkPSZyYXV0aF9lbmFibGU9b24mY2RuZXhfaWQ9cXFfcGhvbmVfbGl2ZSZjaHM9JmRlZj0xJnM9OGM1YmJjMGViMzcyMGUyNjA3YTMzOGY2NmEzNjJlOTMmdWlkPSZ1dWlkPTgyMmE2ODljYjI4ZGQ5MDQ2YzJhYmYzOThhZWYzYjFmLTE0NTE5ZjIwJnY9MiZhcz0wJmVzPTE3NzIxODQyNjA,/HNJSMPP360.m3u8
+http://phonehwei.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwNi4xNC4zOC41NSZ0ZXJtPTUmcWlkPSZjZG5leF9pZD1od19waG9uZSZjaHM9JmRlZj0xJnM9ZWU5NWFjZjdmNzMzN2JkNWM2ZjZiY2IzMTI4ZTg3YWUmdWlkPSZ1dWlkPTMwNDE2Yzc4NDk3ZGRmYmZmYzU2NWEzMzZlMjgyZmIwLTZhMGUyNjM3JnY9MiZhcz0wJmVzPTE3NzIzNTUzNDk,/HNJSMPP360.m3u8
 #EXTINF:-1 tvg-id="湖南都市" tvg-name="湖南都市" tvg-logo="https://cdn.jsdelivr.net/gh/arbaleast/mgtv@main/logo/hnds.png" group-title="☘️湖南频道",湖南都市
-http://phonealihd.qing.mgtv.com/nn_live/nn_x64/dWlwPTIwLjgxLjE1OS4zMiZ0ZXJtPTEmcWlkPSZyYXV0aF9lbmFibGU9b2ZmJmNkbmV4X2lkPWFsX3Bob25lNCZjaHM9JmRlZj0xJnM9ODBkMjI2ZWQzZmZjZmIzOGJkYmY2MzQzZTRhMjkwYTcmdWlkPSZ1dWlkPTdmOTcyYjYyZWY2NmY3ZDJiNWExNWQxNGRiNTgyZDcxLTE0NTE5ZjIwJnY9MiZhcz0wJmVzPTE3NzIyODUwNjE,/HNDSMPP360.m3u8
+http://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwNi4xNC4zOC41NSZ0ZXJtPTUmcWlkPSZyYXV0aF9lbmFibGU9b2ZmJmNkbmV4X2lkPXFxX3Bob25lX2xpdmUmY2hzPSZkZWY9MSZzPTMwNTY5YWRmN2I4OTcxYTllMGYzYTViNjhjNGRjNjgwJnVpZD0mdXVpZD0yYzU2OTIzYTdiNTNmY2Y0OTUwNzM5NDJmNjNjMzhlYS02YTBlMjYzNyZ2PTImYXM9MCZlcz0xNzcyMzc2OTQ5/HNDSMPP360.m3u8
 #EXTINF:-1 tvg-id="湖南电视剧" tvg-name="湖南电视剧" tvg-logo="https://cdn.jsdelivr.net/gh/arbaleast/mgtv@main/logo/hndsj.png" group-title="☘️湖南频道",湖南视剧
-http://phonealihd.qing.mgtv.com/nn_live/nn_x64/dWlwPTIwLjgxLjE1OS4zMiZ0ZXJtPTEmcWlkPSZyYXV0aF9lbmFibGU9b2ZmJmNkbmV4X2lkPWFsX3Bob25lNCZjaHM9JmRlZj0xJnM9ZGE5YTFiYTExODM0ODgyMzUxYmQyOGQ5NzBiYTMxYTYmdWlkPSZ1dWlkPTYwOWY3MGMyN2E4ZjYwMGNiYTAwNTA2Y2VmN2NhYjJlLTE0NTE5ZjIwJnY9MiZhcz0wJmVzPTE3NzIyODUwNjE,/HNDSJMPP360.m3u8
+http://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwNi4xNC4zOC41NSZ0ZXJtPTUmcWlkPSZyYXV0aF9lbmFibGU9b2ZmJmNkbmV4X2lkPXFxX3Bob25lX2xpdmUmY2hzPSZkZWY9MSZzPTVmOTRmMDE1MzdhY2MwMjU3ZmU0MmQxZTgyMTg2YjJjJnVpZD0mdXVpZD1iZjc1MTFlMzI1ZjYwYzFmZTFiM2Y2MWVlMTZkODQxYy02YTBlMjYzNyZ2PTImYXM9MCZlcz0xNzcyMzc5MDM2/HNDSJMPP360.m3u8
 #EXTINF:-1 tvg-id="261" tvg-name="湖南公共" tvg-logo="https://cdn.jsdelivr.net/gh/arbaleast/mgtv@main/logo/hngg.png" group-title="☘️湖南频道",湖南公共 
 http://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTIwLjgxLjE1OS4zMiZ0ZXJtPTEmcWlkPSZyYXV0aF9lbmFibGU9b2ZmJmNkbmV4X2lkPXFxX3Bob25lX2xpdmUmY2hzPSZkZWY9MSZzPWI4Zjg5MzQwZmU1Y2M3YjkzNjY0MDIxYzA1MTA3NTdmJnVpZD0mdXVpZD0zMTdkMDZiYTNlNWIyZWU1ODA0ZDUwNTMxYzc4ODE5Yy0xNDUxOWYyMCZ2PTImYXM9MCZlcz0xNzcyMTg0MjYy/HNGGMPP360.m3u8
 #EXTINF:-1 tvg-id="湖南国际" tvg-name="湖南国际" tvg-logo="https://cdn.jsdelivr.net/gh/arbaleast/mgtv@main/logo/hngj.png" group-title="☘️湖南频道",湖南国际
 http://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTIwLjgxLjE1OS4zMiZ0ZXJtPTEmcWlkPSZyYXV0aF9lbmFibGU9b2ZmJmNkbmV4X2lkPXFxX3Bob25lX2xpdmUmY2hzPSZkZWY9MSZzPWNkMzZhYjdhZTZmMDYyNTgzYjkyNjI0MmNkODA5NWE1JnVpZD0mdXVpZD1lMzAwZGM0OTA3ZGJhMDdiODIwNGYxN2RhMzA5ZDQ1Ni0xNDUxOWYyMCZ2PTImYXM9MCZlcz0xNzcyMTg0MjYz/HNGJMPP360.m3u8
 #EXTINF:-1 tvg-id="湖南娱乐" tvg-name="湖南娱乐" tvg-logo="https://cdn.jsdelivr.net/gh/arbaleast/mgtv@main/logo/hnyl.png" group-title="☘️湖南频道",湖南娱乐
-http://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTIwLjgxLjE1OS4zMiZ0ZXJtPTEmcWlkPSZyYXV0aF9lbmFibGU9b2ZmJmNkbmV4X2lkPXFxX3Bob25lX2xpdmUmY2hzPSZkZWY9MSZzPTRiYmNjMTk4NjJiNGI0ZWUxYjkyZDAyMWE1MjdjYmIyJnVpZD0mdXVpZD1jNjMwZTI1MmI4Yzk5YzFlMjZkY2Y5ZGExZWRjODAxMC0xNDUxOWYyMCZ2PTImYXM9MCZlcz0xNzcyMTg0MjY0/HNYLMPP360.m3u8
+http://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwNi4xNC4zOC41NSZ0ZXJtPTUmcWlkPSZyYXV0aF9lbmFibGU9b2ZmJmNkbmV4X2lkPXFxX3Bob25lX2xpdmUmY2hzPSZkZWY9MSZzPTU0YmE4MjQ1MzViZmE3ZjU1YWRmMDRkNWMxYWU4ZWZhJnVpZD0mdXVpZD1jOGNmYTNmNjZiNWE4M2ZhYjRhNDY1M2ZhNmUxYTVhOC02YTBlMjYzNyZ2PTImYXM9MCZlcz0xNzcyMzczMjYx/HNYLMPP360.m3u8
 #EXTINF:-1 tvg-id="267" tvg-name="快乐购" tvg-logo="https://cdn.jsdelivr.net/gh/arbaleast/mgtv@main/logo/hnklg.png" group-title="☘️湖南频道",快乐购 
 http://phonealihd.qing.mgtv.com/nn_live/nn_x64/dWlwPTIwLjgxLjE1OS4zMiZ0ZXJtPTEmcWlkPSZyYXV0aF9lbmFibGU9b2ZmJmNkbmV4X2lkPWFsX3Bob25lNCZjaHM9JmRlZj0xJnM9ZDI1ODUyMTE2ZTA2MDJkN2NhM2NiOGFiNWZmMjAyZjYmdWlkPSZ1dWlkPWJlODBkMTcyNzM4NmRmOTNhN2ZkNzkyMzIxMTE5NzgxLTE0NTE5ZjIwJnY9MiZhcz0wJmVzPTE3NzIyODUwNjQ,/KLGMPP360.m3u8
 #EXTINF:-1 tvg-id="茶频道" tvg-name="茶频道" tvg-logo="https://cdn.jsdelivr.net/gh/arbaleast/mgtv@main/logo/cpd.png" group-title="☘️湖南频道",茶友频道
-http://drive.mxmy.net:8888/udp/239.3.1.165:8001
+http://mgsp-hs2.live.miguvideo.com:8088/migu/kailu/ydcmc/51/20251225/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=600603&netType=0&sid=5910022320&pid=2028597139&timestamp=20260301160219&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=961930369&ParentNodeID=-99&assertID=5910022320&client_ip=218.28.233.106&SecurityKey=20260301160219&promotionId=&mvid=5900006785&mcid=500020&playurlVersion=WX-A1-9.2.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=a9ca28df3ec6294140c42a609458fc1c&sv=10004&ct=android
 #EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://cdn.jsdelivr.net/gh/arbaleast/mgtv@main/logo/jyjs.png" group-title="☘️湖南频道",金鹰纪实
 http://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTIwLjgxLjE1OS4zMiZ0ZXJtPTEmcWlkPSZyYXV0aF9lbmFibGU9b2ZmJmNkbmV4X2lkPXFxX3Bob25lX2xpdmUmY2hzPSZkZWY9MSZzPTJmN2Q2MTdiM2NkZTAzYWYwZTk4NTc4Nzk0MTA3NGFjJnVpZD0mdXVpZD01NjRjM2EyYWFmOWYzNjFhYjljYTY2Y2M3ZDdkZjliNy0xNDUxOWYyMCZ2PTImYXM9MCZlcz0xNzcyMTg0MjY2/JYJSMPP360.m3u8
 #http://drive.mxmy.net:8888/udp/239.3.1.58:8156
 #EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://cdn.jsdelivr.net/gh/arbaleast/mgtv@main/logo/jykt.png" group-title="☘️湖南频道",金鹰卡通
-http://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTIwLjgxLjE1OS4zMiZ0ZXJtPTEmcWlkPSZyYXV0aF9lbmFibGU9b2ZmJmNkbmV4X2lkPXFxX3Bob25lX2xpdmUmY2hzPSZkZWY9MSZzPTRiOGM5ZDQ0YmExNGU1MTA5MGE5NjcxZWZjZTY3MDFjJnVpZD0mdXVpZD04MDBlNTRmZmRiNTljYzRkMDcwNmY3M2U2MDVkYzM5MS0xNDUxOWYyMCZ2PTImYXM9MCZlcz0xNzcyMTg0MjY2/JYKTMPP360.m3u8
+http://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwNi4xNC4zOC41NSZ0ZXJtPTUmcWlkPSZjZG5leF9pZD1xcV9waG9uZV9saXZlJmNocz0mZGVmPTEmcz1kZjEyZjY2NWQ4OWZmNThlZjdlM2M1MmUwZTVhYmU4NiZ1aWQ9JnV1aWQ9N2JiYzczNzA4ZTExMTVhZjMzZDZhMWM0NGRiMGZkNjItNmEwZTI2Mzcmdj0yJmFzPTAmZXM9MTc3MjM2NjUxNQ,,/JYKTMPP360.m3u8
 #EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://cdn.jsdelivr.net/gh/arbaleast/mgtv@main/logo/klcd.png" group-title="☘️湖南频道",快乐垂钓
-http://drive.mxmy.net:8888/udp/239.3.1.164:8001
+http://mgsp-ws2.live.miguvideo.com:8088/migu/kailu/ydcmklcd/51/20251225/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=600603&netType=0&sid=5910022317&pid=2028597139&timestamp=20260301160208&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=961930263&ParentNodeID=-99&assertID=5910022317&client_ip=218.28.233.106&SecurityKey=20260301160208&promotionId=&mvid=5900006783&mcid=500020&playurlVersion=WX-A1-9.2.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=0093870b23cfb1445c6983addbfc25bd&sv=10004&ct=android
 #EXTINF:-1 tvg-id="329" tvg-name="先锋乒羽" tvg-logo="https://cdn.jsdelivr.net/gh/arbaleast/mgtv@main/logo/xfpy.png" group-title="☘️湖南频道",先锋乒羽
 http://tvbox6.icu/tv/mgtv.php?id=329
 #EXTINF:-1 tvg-id="湖南爱晚" tvg-name="湖南爱晚" tvg-logo="https://cdn.jsdelivr.net/gh/arbaleast/mgtv@main/logo/hnaw.png" group-title="☘️湖南频道",湖南爱晚
@@ -75,26 +76,28 @@ http://tvbox6.icu/tv/mgtv.php?id=221
 #EXTINF:-1 tvg-id="湖南教育" tvg-name="湖南教育台" tvg-logo="https://cdn.jsdelivr.net/gh/arbaleast/mgtv@main/logo/hnjy.png" group-title="☘️湖南频道",湖南教育
 http://222.241.154.37:9901/tsfile/live/23027_1.m3u8
 #EXTINF:-1 tvg-id="长沙新闻" tvg-logo="https://cdn.jsdelivr.net/gh/arbaleast/mgtv@main/logo/csxw.png" group-title="☘️湖南频道",长沙新闻
-http://tvbox6.icu/tv/mgtv.php?id=269
+http://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwNi4xNC4zOC41NSZ0ZXJtPTUmcWlkPSZjZG5leF9pZD1xcV9waG9uZV9saXZlJmNocz0mZGVmPTEmcz03ODQ5MzYwNTVjNGI4NWFiY2QwZDc1NDIyMDBjNDYwNiZ1aWQ9JnV1aWQ9ZGE2NGU1NGY4YWY0ZjQwYzA2NzI4MmQyYzc4ZmY3OGItNmEwZTI2Mzcmdj0yJmFzPTAmZXM9MTc3MjM4MDU3OQ,,/CSXWMPP360.m3u8
 #EXTINF:-1 tvg-name="长沙政法" tvg-logo="https://cdn.jsdelivr.net/gh/arbaleast/mgtv@main/logo/cszf.png" group-title="☘️湖南频道",长沙政法
 http://tvbox6.icu/tv/mgtv.php?id=254
 #EXTINF:-1 tvg-name="长沙女性" tvg-logo="https://cdn.jsdelivr.net/gh/arbaleast/mgtv@main/logo/csnx.png" group-title="☘️湖南频道",长沙女性
 http://tvbox6.icu/tv/mgtv.php?id=230
 
-#香港频道
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="☘️香港频道",凤凰资讯
+#凤凰频道
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="☘️凤凰频道",凤凰资讯
 http://rihou.cc:555/tv/[SX]凤凰资讯
-#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" http-user-agent="iPhone" group-title="☘️香港频道" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",凤凰资讯
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" http-user-agent="iPhone" group-title="☘️凤凰频道" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",凤凰资讯
 http://101.35.240.114:88/phenix.php?id=fhzx
-#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="☘️香港频道",凤凰资讯
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="☘️凤凰频道",凤凰资讯
+http://61.221.215.25:8800/hls/47/index.m3u8
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="☘️凤凰频道",凤凰资讯
 http://43.152.143.193:80/1.v.smtcdns.net/tvlive.fengshows.cn/live/0701pin72.flv
-#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="☘️香港频道",凤凰资讯
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="☘️凤凰频道",凤凰资讯
 http://cdn6.163189.xyz/163189/fhzx
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="☘️香港频道",凤凰资讯
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="☘️凤凰频道",凤凰资讯
 http://bxtv.3a.ink/api.php?id=fhzx
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="☘️香港频道",凤凰资讯
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="☘️凤凰频道",凤凰资讯
 http://r.jdshipin.com/0Rp07
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="☘️香港频道",凤凰资讯
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="☘️凤凰频道",凤凰资讯
 http://api.kkitv.itv888.vip:8080/streams/wzt3qbit80m/index.m3u8
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="☘️香港频道",凤凰资讯
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="☘️凤凰频道",凤凰资讯
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
